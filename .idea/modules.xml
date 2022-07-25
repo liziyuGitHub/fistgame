@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/firstlog/firstlog.iml" filepath="$PROJECT_DIR$/firstlog/firstlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fistgame.iml" filepath="$PROJECT_DIR$/.idea/fistgame.iml" />
+    </modules>
+  </component>
+</project>
